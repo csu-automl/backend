@@ -1,0 +1,12 @@
+.dockerignore
+.editorconfig
+.eslintignore
+.eslintrc.js
+.git
+.gitignore
+docker-compose.yml
+Dockerfile
+*.md
+config
+dist
+node_modules

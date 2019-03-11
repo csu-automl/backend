@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+require('../require')
+requireRoot('lib/logger')
+
+const { createApp } = requireRoot('lib/app')
+createApp().start()

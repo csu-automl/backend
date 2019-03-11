@@ -1,0 +1,5 @@
+{
+  "storage": {
+    "url": "mongodb://mongo.automl.local:27017/backend"
+  }
+}
