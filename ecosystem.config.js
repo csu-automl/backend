@@ -1,11 +1,11 @@
 module.exports = {
   apps: [
     {
-      name: 'auth',
+      name: 'backend',
       script: 'bin/www',
       env: {
         watch: true,
-        PORT: 3001,
+        PORT: 3000,
         NODE_ENV: 'development'
       },
       env_production: {

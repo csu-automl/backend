@@ -1,10 +1,15 @@
-# Auth
+# Backend
 
 ## Prerequisites
 
 1. Install node v10.15.0+, install yarn 1.12.0+
 
 2. Install and launch mongodb service
+
+4. Install pm2
+```bash
+yarn global add pm2
+```
 
 3. Update these config files:
 
